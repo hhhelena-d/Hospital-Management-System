@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Hospital_Management_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78B478EC-A8BC-4D93-9C86-39C39FCFB273}|Hospital_Management_System\\Hospital_Management_System.csproj|C:\\Users\\User\\source\\repos\\Hospital_Management_System\\hospital_management_system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78B478EC-A8BC-4D93-9C86-39C39FCFB273}|Hospital_Management_System\\Hospital_Management_System.csproj|solutionrelative:hospital_management_system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B478EC-A8BC-4D93-9C86-39C39FCFB273}|Hospital_Management_System\\Hospital_Management_System.csproj|c:\\users\\user\\source\\repos\\hospital_management_system\\hospital_management_system\\receptionistmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78B478EC-A8BC-4D93-9C86-39C39FCFB273}|Hospital_Management_System\\Hospital_Management_System.csproj|solutionrelative:hospital_management_system\\receptionistmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B478EC-A8BC-4D93-9C86-39C39FCFB273}|Hospital_Management_System\\Hospital_Management_System.csproj|c:\\users\\user\\source\\repos\\hospital_management_system\\hospital_management_system\\docmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78B478EC-A8BC-4D93-9C86-39C39FCFB273}|Hospital_Management_System\\Hospital_Management_System.csproj|solutionrelative:hospital_management_system\\docmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "receptionistMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Hospital_Management_System\\Hospital_Management_System\\receptionistMenu.cs",
+              "RelativeDocumentMoniker": "Hospital_Management_System\\receptionistMenu.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Hospital_Management_System\\Hospital_Management_System\\receptionistMenu.cs [Design]",
+              "RelativeToolTip": "Hospital_Management_System\\receptionistMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:08:53.239Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Hospital_Management_System\\Hospital_Management_System\\docMenu.cs",
+              "RelativeDocumentMoniker": "Hospital_Management_System\\docMenu.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Hospital_Management_System\\Hospital_Management_System\\docMenu.cs [Design]",
+              "RelativeToolTip": "Hospital_Management_System\\docMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:30:48.892Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Hospital_Management_System\\Hospital_Management_System\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Hospital_Management_System\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Hospital_Management_System\\Hospital_Management_System\\LoginForm.cs [Design]*",
+              "RelativeToolTip": "Hospital_Management_System\\LoginForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:40:10.909Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
